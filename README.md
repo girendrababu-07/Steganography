@@ -62,21 +62,18 @@ This project implements **Image Steganography** using the **Least Significant Bi
 
 ├── encode.h
 
-├── decode.c        (optional / future work)
+├── decode.c        
+
+├── decode.h
 
 ├── common.h
 
+├── test_encode.c
+
 ├── types.h
 
-├── input.bmp
 
-├── secret.txt
 
-└── output.bmp
-
-```
-
----
 
 ▶️ Compilation & Execution
 
